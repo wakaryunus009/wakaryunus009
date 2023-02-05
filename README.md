@@ -54,9 +54,7 @@
     <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus009&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
 </p>
 
-<p align="center">
-    <img src="https://res.cloudinary.com/dtgj7lwpa/image/upload/v1674238185/samples/meta-chart_wa9jyr.png" width="500" alt="Pie Chart">
-</p>
+
 
 <h2 align="center">Keen to learn about DSA & Problem Solving Apporach...</h2>
 <h4 align="center">Till date I have solved DSA problems on LeetCode(300+), GFG(400+) and CodeStudio(150+)... <br>
