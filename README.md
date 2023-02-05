@@ -43,7 +43,7 @@
 
 <h1 align="center">
     Tools, Frameworks and Libraries...☣ <br> <br>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepngdesign.com%2Fangular-logo-png-transparent-logo-33694.html&psig=AOvVaw3wk6bNbcPjKNpxu6vpZEQP&ust=1675708448565000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCHnsuC__wCFQAAAAAdAAAAABAE" alt="AngularJS" width="150">
+    <img src="https://drive.google.com/file/d/1hLBTAaA6HxGSzz0oqjfLdSoGaO1nyMmY/view?usp=drivesdk" alt="AngularJS" width="150">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs" width=100>
     <img src="https://icon-library.com/images/d234566f9d.png" alt="MongoDB" width="150">
     <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Bootstrap" width="150">
