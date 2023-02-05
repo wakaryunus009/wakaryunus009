@@ -51,7 +51,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=asifstar135&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
+    <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus009&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
 </p>
 
 <p align="center">
