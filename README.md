@@ -8,7 +8,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilanower&label=Profile%20views&color=ff0080&style=flat" alt="sahilanower" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wakaryunus009&label=Profile%20views&color=ff0080&style=flat" alt="sahilanower" /> </p>
 
 - 💬 Let's talk about **MERN and D S Algo**
 
@@ -47,9 +47,9 @@
 <h1 align ="center">Programming Languages</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-C-F3F7FA?logo=c&logoColor=A8B9CC&style=for-the-badge&logoWidth=30" alt="C">
-  <img src="https://img.shields.io/badge/-C%23-F3F7FA?logo=C++&logoColor=239120&style=for-the-badge&logoWidth=30" alt="C++">
-  <img src="https://img.shields.io/badge/-C%23-F3F7FA?logo=Java&logoColor=239120&style=for-the-badge&logoWidth=30" alt="Java">
-  <img src="https://img.shields.io/badge/-C%23-F3F7FA?logo=R&logoColor=239120&style=for-the-badge&logoWidth=30" alt="R">
+  <img src="https://img.shields.io/badge/-C%23-F3F7FA?&style=for-the-badge&logoWidth=30" alt="C++">
+  <img src="https://img.shields.io/badge/-C%23-F3F7FA?&style=for-the-badge&logoWidth=30" alt="Java">
+  <img src="https://img.shields.io/badge/-C%23-F3F7FA?&style=for-the-badge&logoWidth=30" alt="R">
   <img src="https://img.shields.io/badge/-Js-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
 </p>
