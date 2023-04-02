@@ -5,10 +5,10 @@
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+love+to+Solve;I+am+a+MERN+Developer;I+am+a+React+Native+Developer;I+am+a+Full+Stack+Developer;I+am+a+CPP+Programmer&center=true&size=30">
  </a>
  
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wakaryunus009&label=Profile%20views&color=ff0080&style=flat" alt="sahilanower" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wakaryunus009&label=Profile%20views&color=ff0080&style=flat" alt="WakarYunus" /> </p>
 
 - 💬 Let's talk about **MERN and D S Algo**
 
