@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, This is Wakar Yunus</h1>
 
 <a align="center" href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Coder;I+am+a+MERN+Develper;I+am+a+React+Native+Developer;I+am+a+Full+stack+Developer;I+am+a+CPP+Programmer;&center=true&size=30">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+LOVE+TO+SOLVE;I+am+a+MERN+Develper;I+am+a+Full+stack+Developer;I+am+a+CPP+Programmer;&center=true&size=30">
  </a>
  
 <h3 align="center">A passionate full stack developer</h3>
