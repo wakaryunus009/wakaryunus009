@@ -47,9 +47,9 @@
 <h1 align ="center">Programming Languages</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/-C-F3F7FA?logo=c&logoColor=A8B9CC&style=for-the-badge&logoWidth=30" alt="C">
-  <img src="https://img.shields.io/badge/-C%23-F3F7FA?&style=for-the-badge&logoWidth=30" alt="C++">
-  <img src="https://img.shields.io/badge/-C%23-F3F7FA?&style=for-the-badge&logoWidth=30" alt="Java">
-  <img src="https://img.shields.io/badge/-C%23-F3F7FA?&style=for-the-badge&logoWidth=30" alt="R">
+  <img src="https://www.flaticon.com/free-icons/coding&style=for-the-badge&logoWidth=30" alt="C++">
+  <img src="https://www.flaticon.com/free-icons/java?&style=for-the-badge&logoWidth=30" alt="Java">
+  <img src="https://www.flaticon.com/free-icons/r&style=for-the-badge&logoWidth=30" alt="R">
   <img src="https://img.shields.io/badge/-Js-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
 </p>
@@ -78,3 +78,6 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus00
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakaryunus009&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
  </p>  
+  <div align="center">
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakaryunus009&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="wakaryunus009" /></p>
+</div>
