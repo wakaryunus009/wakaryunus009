@@ -20,7 +20,7 @@
 - 📫 How to reach me **wakaryunus009@gmail.com**
 
 - ⚡ Fun fact **Newbie trying to be a pro**
-- ##  About me
+- ###  About me
 
 <!-- <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -40,7 +40,7 @@
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"> -->
-	## Connect with me:
+	### Connect with me:
 <p align="left">
 
 
@@ -49,7 +49,7 @@
 <!-- <a href = "https://www.instagram.com/mr__tripathy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
-## Do Follow me and ❤️ Star the repositories if you find it useful.
+### Do Follow me and ❤️ Star the repositories if you find it useful.
 <br>
 <br>
 <!-- ## Thankyou
@@ -107,8 +107,8 @@
 <!-- <p align="center"><img align="center" height="400" width="540" src="https://res.cloudinary.com/dseldmvfp/image/upload/v1666327805/posts/Untitled_design_f7vyfe.png" alt="statistics" /></p> -->
 
 
-<p align="center">
-## 🛠️ My Skills
+
+### 🛠️ My Skills
 <p align="center">
 
 ### 👉 Programming languages
@@ -235,6 +235,12 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus00
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
+			<p align="center">
+    <a href="https://github.com/wakaryunus009/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wakar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wakaryunus009&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <!-- 
 <a href="https://github.com/SoumyoNathTripathy/github-readme-activity-graph"><img alt="Soumyo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SoumyoNathTripathy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <!-- <h2 align="center">My Contribution Streak 🔥</h2> -->
@@ -251,6 +257,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus00
 <!--   <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakaryunus009&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="wakaryunus009" /></p>
 </div> -->
+
 
 
 <!-- ![sOUMYO NATH TRIPATHY](https://user-images.githubusercontent.com/85414445/149586965-6e0053b9-bdae-4353-932a-98c54b190469.jpg)
