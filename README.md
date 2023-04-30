@@ -22,9 +22,9 @@
 - ⚡ Fun fact **Newbie trying to be a pro**
 - ##  About me
 
-<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<!-- <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br><br> -->
 
 - :school: I am a `3rd year Under-Grad` pursuing [Computer Science Engineering](https://sites.google.com/view/departmentofcseaimlcsbs/home) at [Aliah Univerisity,Kolkata](https://aliah.ac.in/).
 <!-- - :trophy: 4x `Hackathons` Finalist. -->
