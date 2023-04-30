@@ -2,9 +2,13 @@
   <h1 align="center">Hi 👋, This is Wakar Yunus</h1>
   <h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>
 
-<a align="center" href="https://git.io/typing-svg">
+<!-- <a align="center" href="https://git.io/typing-svg">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+love+to+Solve;I+am+a+MERN+Developer;I+am+a+React+Native+Developer;I+am+a+Full+Stack+Developer;I+am+a+CPP+Programmer&center=true&size=30">
- </a>
+ </a> -->
+  <a align="center" href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Happy Songs-Good Code-Tasty Food & Gym , THATS ME!&center=true&size=30">
+ </a> 
+ 
  
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
