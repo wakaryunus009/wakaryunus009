@@ -26,7 +26,7 @@
 
 <br><br> -->
 
-- :school: I am a `3rd year Under-Grad` pursuing [Computer Science Engineering](https://sites.google.com/view/departmentofcseaimlcsbs/home) at [Aliah Univerisity,Kolkata](https://aliah.ac.in/).
+- :school: I am a `3rd year Under-Grad` pursuing [Computer Science & Engineering](https://sites.google.com/view/departmentofcseaimlcsbs/home) at [Aliah Univerisity,Kolkata](https://aliah.ac.in/).
 <!-- - :trophy: 4x `Hackathons` Finalist. -->
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a programmer at `GFG`, `Codeshef`, `Leetcode`, `Kaggle`.
@@ -107,13 +107,13 @@
 <!-- <p align="center"><img align="center" height="400" width="540" src="https://res.cloudinary.com/dseldmvfp/image/upload/v1666327805/posts/Untitled_design_f7vyfe.png" alt="statistics" /></p> -->
 
 
-
+<p align="center">
 ## 🛠️ My Skills
 <p align="center">
 
 ### 👉 Programming languages
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://img.shields.io/badge/-C-F3F7FA?logo=c&logoColor=A8B9CC&style=for-the-badge&logoWidth=30" alt="C">
 	 <img src="https://img.shields.io/badge/-Js-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
 <!--   <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">  -->
