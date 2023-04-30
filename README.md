@@ -45,16 +45,16 @@
 
 
 <!-- <a href = "https://www.linkedin.com/in/soumyo-nath-tripathy-55b366208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
-<a href = "https://twitter.com/wakaryunus009"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://twitter.com/wakaryunus009"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <!-- <a href = "https://www.instagram.com/mr__tripathy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 </p>
 ## Do Follow me and ❤️ Star the repositories if you find it useful.
-## Thankyou
+<!-- ## Thankyou
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=wakaryunus009">
 </a>
-<a href="https://github.com/wakaryunus009?tab=followers"><img src="https://img.shields.io/github/followers/wakaryunus009?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/wakaryunus009?tab=followers"><img src="https://img.shields.io/github/followers/wakaryunus009?label=Followers&style=social" alt="GitHub Badge"></a> -->
 <a href="https://linkedin.com/in/wakar-yunus/" target="_blank">
     <img height="40" width="40" margin="0 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="">
 </a>
@@ -79,7 +79,7 @@
     <a href="https://www.instagram.com/wakar_yunus_/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="telegram" width="48">
     </a>
-
+<a href = "https://twitter.com/wakaryunus009"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 <!-- <h1 align ="center">Programming Languages</h1> -->
 <!-- <p align="center"> -->
@@ -106,6 +106,7 @@
 
 
 ## 🛠️ My Skills
+<p align="center">
 
 ### 👉 Programming languages
 
@@ -157,8 +158,8 @@
   
   </br>
   <img src="https://img.shields.io/badge/-ReactJs-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
-  <img src="https://img.shields.io/badge/-MySQL-F3F7FA?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL">
-  <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
+<!--   <img src="https://img.shields.io/badge/-MySQL-F3F7FA?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL"> -->
+<!--   <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB"> -->
   <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="NodeJs">
   <img src="https://img.shields.io/badge/-Express.js-F3F7FA?logo=Express.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="ExpressJS">
 </p>
@@ -190,16 +191,16 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-    &emsp;
+<!--     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+    &emsp; -->
 <!--     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a> -->
-     &emsp;
+<!--      &emsp; -->
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
      &emsp;
 <!--     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> -->
-    &emsp;
+<!--     &emsp; -->
 <!--     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a> -->
-    &emsp;
+<!--     &emsp; -->
 <!--      <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a> -->
 <!--     &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a> -->
 <!--     &emsp; -->
@@ -212,34 +213,34 @@
 
 
 <h2 align="center">My Github Statistics 🔥</h2>   
-<p align="center">
+
 <!-- <a href="https://github.com/wakaryunus009">
 <img align="center" alt="Ambareen's Github stats"
 src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus009&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000"/>
 </a> -->
-	
+	<p align="center">
 	## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Wakar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wakaryunus009&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Wakar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaryunus009&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="center" href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Wakar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wakaryunus009&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a align="center" href="https://github.com/tandrimasingha/github-readme-stats"><img alt="Wakar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaryunus009&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b align="center">Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 <!-- 
 <a href="https://github.com/SoumyoNathTripathy/github-readme-activity-graph"><img alt="Soumyo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SoumyoNathTripathy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<h2 align="center">My Contribution Streak 🔥</h2>
+<!-- <h2 align="center">My Contribution Streak 🔥</h2> -->
 
 <!--   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakaryunus009&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a> -->
-	<p align="center">
-    <a href="https://github.com/wakaryunus009/github-readme-streak-stats">
+<!-- 	<p align="center"> -->
+<!--     <a href="https://github.com/wakaryunus009/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wakar Yunus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wakaryunus009&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- </p>  
+ </p>   -->
 <!--   <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakaryunus009&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="wakaryunus009" /></p>
 </div> -->
@@ -280,7 +281,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus00
 <br>
  -->
 
-## 🛠️ My Skills
+<!-- ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
@@ -369,7 +370,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus00
     &emsp;
     
 </p>
-
+ -->
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
