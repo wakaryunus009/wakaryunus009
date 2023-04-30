@@ -242,12 +242,12 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus00
 <!--   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wakaryunus009&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a> -->
-<!-- 	<p align="center"> -->
-<!--     <a href="https://github.com/wakaryunus009/github-readme-streak-stats">
+	<p align="center">
+	<a href="https://github.com/wakaryunus009/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wakar Yunus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wakaryunus009&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
- </p>   -->
+ </p>
 <!--   <div align="center">
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wakaryunus009&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="wakaryunus009" /></p>
 </div> -->
