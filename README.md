@@ -1,5 +1,6 @@
  
   <h1 align="center">Hi 👋, This is Wakar Yunus</h1>
+  <h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>
 
 <a align="center" href="https://git.io/typing-svg">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+love+to+Solve;I+am+a+MERN+Developer;I+am+a+React+Native+Developer;I+am+a+Full+Stack+Developer;I+am+a+CPP+Programmer&center=true&size=30">
@@ -83,19 +84,19 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=wakaryunus00
 </div>
 
 
-![sOUMYO NATH TRIPATHY](https://user-images.githubusercontent.com/85414445/149586965-6e0053b9-bdae-4353-932a-98c54b190469.jpg)
+<!-- ![sOUMYO NATH TRIPATHY](https://user-images.githubusercontent.com/85414445/149586965-6e0053b9-bdae-4353-932a-98c54b190469.jpg)
 </div>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
-###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1>
+<!-- ###  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyo Nath Tripathy </h1> -->
 
 
-<h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3>
+<!-- <h3 align="center">Happy Songs-Good Code-Tasty Food & Gym , THATS ME!</h3> -->
 
 
 </p>
