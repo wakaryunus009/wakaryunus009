@@ -50,11 +50,14 @@
 
 </p>
 ## Do Follow me and ❤️ Star the repositories if you find it useful.
+<br>
+<br>
 <!-- ## Thankyou
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=wakaryunus009">
 </a>
 <a href="https://github.com/wakaryunus009?tab=followers"><img src="https://img.shields.io/github/followers/wakaryunus009?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<p align="center"
 <a href="https://linkedin.com/in/wakar-yunus/" target="_blank">
     <img height="40" width="40" margin="0 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="">
 </a>
@@ -101,7 +104,7 @@
   <img src="https://img.shields.io/badge/-Express.js-F3F7FA?logo=Express.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="ExpressJS">
 </p> -->
 
-<p align="center"><img align="center" height="400" width="540" src="https://res.cloudinary.com/dseldmvfp/image/upload/v1666327805/posts/Untitled_design_f7vyfe.png" alt="statistics" /></p>
+<!-- <p align="center"><img align="center" height="400" width="540" src="https://res.cloudinary.com/dseldmvfp/image/upload/v1666327805/posts/Untitled_design_f7vyfe.png" alt="statistics" /></p> -->
 
 
 
