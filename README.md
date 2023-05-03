@@ -76,9 +76,9 @@
   <a href="https://t.me/wakaryunus009" target="_blank">
         <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="48">
     </a>
-   <a href="https://www.facebook.com/profile.php?id=100011459797847" target="_blank">
+<!--    <a href="https://www.facebook.com/profile.php?id=100011459797847" target="_blank">
         <img src="https://w7.pngwing.com/pngs/69/315/png-transparent-computer-icons-facebook-inc-logo-facebook-blue-text-rectangle-thumbnail.png" alt="facebook" width="48">
-    </a>
+    </a> -->
     <a href="https://www.instagram.com/wakar_yunus_/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="telegram" width="48">
     </a>
