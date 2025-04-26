@@ -8,13 +8,8 @@
 
 <img src="https://img.shields.io/badge/Education-Pursing_Postgraduate_in_Computer_Science_Engineering(AI and DS)-blue" alt="Education Badge" />
 <img src="https://img.shields.io/badge/University-Jadavpur_University-red" alt="University Badge" />
-<img src="https://img.shields.io/badge/Interests-Speech_%26_Character_Recognition-brightgreen" alt="Interests Badge" />
 
 <br><br>
-
-<h3>👨‍🎓 About Me</h3>
-<p>I'm Wakar Yunus,pursing Postgraduate from <b>Jadavpur University</b> specializing in <b>Computer Science & Engineering (AI & DS)</b>.
-
 
 <h3>📫 How to reach me</h3>
 
