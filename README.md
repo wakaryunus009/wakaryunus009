@@ -2,7 +2,7 @@
    
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=58&lines=Hi%2C+I'm+Wakar+Yunus+!;A+Passionate+Software+Engineer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oleo+Script&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=58&lines=Hi%2C+I'm+Wakar+Yunus+!;)](https://git.io/typing-svg)
 
 <br>
 
