@@ -11,12 +11,4 @@
 
 <br><br>
 
-<h3>📫 How to reach me</h3>
-
-- Email: [wakaryunus009@gmail.com](mailto:wakaryunus009@gmail.com)
-- GitHub: [wakaryunus009](https://github.com/wakaryunus009)
-- LinkedIn: [wakaryunus009](https://linkedin.com/in/wakaryunus009)
-
-<br><br>
-
 </div>
