@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Education-Postgraduate_in_Computer_Science_Engineering(AI and DS)-blue" alt="Education Badge" />
+<img src="https://img.shields.io/badge/Education-Pursing_Postgraduate_in_Computer_Science_Engineering(AI and DS)-blue" alt="Education Badge" />
 <img src="https://img.shields.io/badge/University-Jadavpur_University-red" alt="University Badge" />
 <img src="https://img.shields.io/badge/Interests-Speech_%26_Character_Recognition-brightgreen" alt="Interests Badge" />
 
@@ -18,9 +18,9 @@
 
 <h3>📫 How to reach me</h3>
 
-- Email: [your-email@example.com](mailto:wakaryunus009@gmail.com)
-- GitHub: [your-github-username](https://github.com/wakaryunus009)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/wakaryunus009)
+- Email: [wakaryunus009@gmail.com](mailto:wakaryunus009@gmail.com)
+- GitHub: [wakaryunus009](https://github.com/wakaryunus009)
+- LinkedIn: [wakaryunus009](https://linkedin.com/in/wakaryunus009)
 
 <br><br>
 
